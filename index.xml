@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reginald L. McGee II, Ph.D.</title>
+    <link>https://mcgeerb.sites.haverford.edu/</link>
+      <atom:link href="https://mcgeerb.sites.haverford.edu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Reginald L. McGee II, Ph.D.</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>https://mcgeerb.sites.haverford.edu/images/icon_hu74b0d2110528b146cd68db0716ef883b_23214_512x512_fill_lanczos_center_3.png</url>
+      <title>Reginald L. McGee II, Ph.D.</title>
+      <link>https://mcgeerb.sites.haverford.edu/</link>
+    </image>
+    
+  </channel>
+</rss>
